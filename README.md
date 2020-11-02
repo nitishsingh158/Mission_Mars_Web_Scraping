@@ -1,4 +1,4 @@
-# Mission_to_Mars
+# Mission to Mars : A Beginners Introduction to Web Scraping
 This application scrapes the web for the latest news and facts about the planet Mars.  Since I am interested in the different hemispheres as well, the app also scrapes full-size pictures for each hemisphere and displays all the information on one webpage. All this is done in a sequence using various Python, the Flask module and Bootstrap 3.3.7. 
 
 ## Purpose 
@@ -35,9 +35,12 @@ This application scrapes the web for the latest news and facts about the planet 
 <p>&nbsp;</p>
 
 ![Mars_mission](Resources/MobileScreen.png)
+
 *Mobile Phones*
 
 <p>&nbsp;</p>
 
 ![mars_hemi_scr](Resources/TabletScreen.png)
+
+
 *Tablets*
